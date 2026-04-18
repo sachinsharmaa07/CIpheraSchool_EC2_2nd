@@ -120,16 +120,16 @@ Result:
 ## Screenshots
 
 ### 1) EC2 Instance Running
-![EC2 Instance](imgs/ec2-instance.png)
+<img src="imgs/ec2-instance.png" alt="EC2 Instance" width="900" />
 
 ### 2) Live Website Screenshot
-![Live Website](imgs/live-website.png)
+<img src="imgs/live-website.png" alt="Live Website" width="900" />
 
 ### 3) IAM User1 Login (Access Denied)
-![User1](imgs/user1-access-denied.png)
+<img src="imgs/user1-access-denied.png" alt="User1 Access Denied" width="900" />
 
 ### 4) IAM User2 Login (EC2 Access)
-![User2](imgs/user2-ec2-access.png)
+<img src="imgs/user2-ec2-access.png" alt="User2 EC2 Access" width="900" />
 
 ## Project Folder Structure
 ```bash
