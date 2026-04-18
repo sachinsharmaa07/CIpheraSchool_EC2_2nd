@@ -1,7 +1,7 @@
 # Assignment 01: AWS EC2 Static Website Hosting with IAM Access Control
 
 ## Student Details
-- Name: Sachin Sharma
+- Name: Sachin Kumar
 - Course Platform: Cipher Schools
 - Assignment: AWS EC2 Static Website Hosting with IAM Access Control
 
