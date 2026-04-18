@@ -1,3 +1,5 @@
 *.pem
+*.csv
+imgs/
 node_modules
 .DS_Store
